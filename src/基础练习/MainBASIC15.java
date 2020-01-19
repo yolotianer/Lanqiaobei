@@ -22,7 +22,7 @@ import java.util.Scanner;
  * 样例输出
  * 3
  */
-public class MainBASIC17 {
+public class MainBASIC15 {
     public static void main(String[] args) {
         Scanner input=new Scanner(System.in);
         String str1=input.nextLine();
