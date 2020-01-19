@@ -21,7 +21,7 @@ import java.util.Scanner;
  * 1:30:36
  * 1:30:36
  */
-public class MainBASIC16 {
+public class MainBASIC14 {
     public static void main(String[] args) {
         Scanner input=new Scanner(System.in);
         int t=input.nextInt();
